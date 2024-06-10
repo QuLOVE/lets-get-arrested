@@ -15,13 +15,13 @@ Cсылки на новость:
 - (Японский) [https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html](https://www.sanspo.com/geino/news/20190304/tro19030418410013-n1.html)
 - (Английский) [https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/](https://www.zdnet.com/article/japanese-police-charge-13-year-old-for-sharing-unclosable-popup-prank-online/)
 
-В Японии это называется "уголовным преступлением". Так давайте станем уголовниками и пойдём под суд!
+В Японии это считается "уголовным преступлением". Так поэтому давайте станем уголовниками и пойдём под суд!
 
 Наслаждайтесь криминальной жизнью!
 
-## Как пойти под суд
+## Как попасть под суд
 
-Это просто. Форкните этот проект и выложите его в Github Pages. Это всё. Будет более эффективно, если ещё поделиться ссылкой вида "https://youraccount.github.io/lets-get-arrested" в соцсетях.
+Это просто. Форкните этот проект и выложите его на Github Pages. На этом всё. Будет более эффективно, если ещё поделиться ссылкой в виде "https://вашаккаунт.github.io/lets-get-arrested" в соцсетях. Когда будете делиться ею в Twitter, используйте хэш-тег #letsgetarrested4jscode.
 
 ## Не арестовали?
 
